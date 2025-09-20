@@ -55,4 +55,33 @@ It also demonstrated how blending Python’s EDA capabilities with Power BI dash
 ---
 
 ## 📂 Repository Structure
+├── data/ # train
+├── notebooks/ # Jupyter notebooks for cleaning & EDA
+├── reports/ # PDF/PNG exports of visualizations
+├── dashboards/ # Power BI dashboard file (.pbix)
+└── README.md # Project documentation
 
+---
+
+## 📈 Dashboard Preview
+<img width="1280" height="724" alt="image" src="https://github.com/user-attachments/assets/55f460a0-a204-41d0-807d-4d2930976a12" />
+ 
+
+---
+
+## Next Steps
+- Extend forecasting models using time series analysis  
+- Integrate machine learning to predict customer churn or product demand  
+- Automate reporting pipelines with Python scripts  
+
+---
+
+## Contribution
+Contributions are welcome. Feel free to fork the repo, raise issues, or submit pull requests.  
+
+---
+
+## 📬 Contact
+**Stephen Karanja**  
+- [LinkedIn](https://www.linkedin.com/in/steven-karanja)  
+- Email: muhurakaranja7@gmail.com  
